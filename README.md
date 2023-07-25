@@ -1,5 +1,5 @@
-# Projet_Calculateur_L2-Genie_2021-2022
-## Description : le but de ce projet était de mettre en place un paquet qui regroupe quelques différents logiciels utilisés au département des Mathématiques et informatique pouvant servir aux étudiants durant leur parcours académique.
+#Projet_Calculateur_L2-Genie_2021-2022
+##Description : le but de ce projet était de mettre en place un paquet qui regroupe quelques différents logiciels utilisés au département des Mathématiques et informatique pouvant servir aux étudiants durant leur parcours académique.
 
 Ce projet a été réalisé par :
    1. MUALUNDU NGANGULA
